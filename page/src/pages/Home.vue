@@ -23,7 +23,6 @@ export default {
   name: "Home",
   components:{
     Card
-
   },
   setup(){
     const state = reactive({
